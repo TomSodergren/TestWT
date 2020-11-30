@@ -1,2 +1,3 @@
 Testar textfil.
 Ny rad 1305.
+ytterligare en rad.
